@@ -1,4 +1,4 @@
-# ![Profit Calculator PRO logo](icons/icon128.png)
+# ![Profit Calculator PRO logo](icon128.png)
 
 # Privacy Policy — Profit Calculator PRO
 
